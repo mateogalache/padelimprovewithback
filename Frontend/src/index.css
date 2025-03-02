@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+body{
+    background-color: #232d3f;
+    font-family: "Inter",serif;
+}
+
+.primary-color{
+   color: #005b41; 
+}
+
+.bg-primary-color{
+    background-color: #005b41; 
+}
+
+.border-primary-color{
+    border-color: #005b41; 
+}
+
+.secondary-color{
+   background-color: #232d3f; 
+}
+
+.third-color{
+    background-color: #008170;
+}
